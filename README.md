@@ -3,6 +3,14 @@
 
 # **Concrete Compressive Strength Prediction**
 
+<h1 style="font-family: 'poppins'; font-weight: bold; color: Blue;">Author: Muhammad Adil Naeem</h1>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github)](https://github.com/muhammadadilnaeem) 
+
+[![Twitter/X](https://img.shields.io/badge/Twitter-Profile-red?style=for-the-badge&logo=twitter)](https://twitter.com/adilnaeem0) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-adil-naeem-26878b2b9/)  
+
 ## **Project Overview**
 
 This project aims to predict the compressive strength of concrete using various machine learning models. The analysis is performed on a dataset that includes features such as the composition and age of the concrete. The goal is to identify the most effective model for predicting concrete strength.
